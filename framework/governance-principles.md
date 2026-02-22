@@ -4,7 +4,7 @@ PACTO establishes a governance framework that goes beyond Free, Prior, and Infor
 
 ---
 
-## Core Principle: Co-Design, Not Consent
+## Core Principle: Beyond Consent: Co-Design and Governance
 
 FPIC asks: "Do you agree to what we propose?"
 PACTO asks: "What do you want, and how do we build it together?"
