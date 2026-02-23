@@ -417,7 +417,7 @@ The bridge is one-directional for most PACTO use cases: PACTO data originates on
 
 ## Technical Architecture: Bridge Patterns
 
-Three bridge patterns connect AT Protocol, Regen Ledger, and the broader ecosystem:
+Several bridge patterns connect AT Protocol, Regen Ledger, and the broader ecosystem:
 
 ### Architecture Overview
 
