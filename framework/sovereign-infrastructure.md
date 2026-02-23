@@ -203,6 +203,7 @@ AT Protocol uses Lexicons — globally defined schema specifications — to ensu
 | `network.regen.pacto.evidence.voiceCapture` | Evidence Trail Layer 2 | Audio content hash, transcript content hash, language, duration |
 | `network.regen.pacto.evidence.synthesis` | Evidence Trail Layer 3 | Synthesis version, AI model used, provenance metadata |
 | `network.regen.pacto.evidence.feedback` | Evidence Trail Layer 4 | Corrections, affirmations, rejections, signed by community representative DID |
+| `network.regen.pacto.evidence.iteration` | Evidence Trail Layer 5 | Changes between synthesis versions, consensus tracking, structured diff records |
 | `network.regen.pacto.evidence.agreement` | Evidence Trail Layer 6 | Final endorsed agreement content hash, endorsement attestations |
 | `network.regen.pacto.mechanism.attestation` | m020 | Biocultural indicator claims with dual-source verification references |
 | `network.regen.pacto.mechanism.endorsement` | m023 | Collective validation records signed by community assembly |
