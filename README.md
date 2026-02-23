@@ -9,7 +9,7 @@ A framework for generating durable, community-authored ecological agreements usi
 
 ## What PACTO Is
 
-PACTO (from Spanish *pacto* — pact, agreement) transforms deliberative assembly conversations into formal agreements — conservation easements, ecological service contracts, and credit issuance terms that communities define on their own terms.
+PACTO (from Spanish *pacto* — pact, agreement) transforms deliberative assembly conversations into formal agreements — conservation easements, ecological service contracts, and credit issuance terms that communities define on their own terms. This implimentation focused on ecological agreements instutions and contracts, however the same pipeline should be usable to support any deliberative democratic process. 
 
 PACTO is not prior informed consent. It is not a consultation process. It is a **participatory co-design process** in which the community defines the terms, indicators, and governance structures of ecological agreements from the ground up.
 
