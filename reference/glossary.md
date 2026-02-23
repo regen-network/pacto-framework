@@ -33,6 +33,17 @@
 | **Legal Pluralism** | **Pluralismo Jurídico** | Agreements simultaneously valid under indigenous customary law, national law, and on-chain governance. |
 | **Data Sovereignty** | **Soberanía de Datos** | Communities control where their data lives, who can access it, and can withdraw content at any time. |
 
+## Sovereign Infrastructure Terms
+
+| Term (EN) | Término (ES) | Definition |
+|-----------|-------------|------------|
+| **Sovereign Infrastructure** | **Infraestructura Soberana** | Technology infrastructure that communities can control, operate, and migrate — covering identity, data storage, and AI inference. A spectrum from commercially hosted to fully community-owned. |
+| **Progressive Decentralization** | **Descentralización Progresiva** | The phased pathway from commercially hosted infrastructure (Phase 1) through hybrid (Phase 2), community-primary (Phase 3), to federated mesh (Phase 4). Core Loop remains constant across all phases. |
+| **DID (Decentralized Identifier)** | **Identificador Descentralizado (DID)** | A cryptographic identifier that the holder controls without depending on a central authority. In PACTO, `did:plc` identifiers from AT Protocol provide portable, self-sovereign identity for assembly participants and communities. |
+| **PDS (Personal Data Server)** | **Servidor de Datos Personal (PDS)** | An AT Protocol data store where a user or community controls their own data. In PACTO, community-run PDS instances store Evidence Trail records with community-defined access controls. |
+| **Sovereign Inference** | **Inferencia Soberana** | Running AI models locally on community-controlled hardware so that sensitive data (voice transcripts, cultural knowledge) never leaves community infrastructure. Uses open models via Ollama, vLLM, or llama.cpp. |
+| **Hypercert** | **Hipercertificado** | An on-chain impact claim (ERC-1155 token on Ethereum) that maps work scope, impact scope, and contributors. PACTO Evidence Trail records can serve as the verifiable backing for hypercert claims. |
+
 ## Technical Terms
 
 | Term (EN) | Término (ES) | Definition |
