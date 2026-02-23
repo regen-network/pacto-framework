@@ -250,7 +250,7 @@ The PDS serves as both storage and resolver: anyone with the IRI can resolve it 
 
 ### Storage Self-Determination
 
-Consistent with [governance principles](governance-principles.md) (line 58: "communities choose where their data is stored"), the PDS architecture supports multiple hosting models:
+Consistent with the [governance principle](governance-principles.md) of storage self-determination, the PDS architecture supports multiple hosting models:
 
 - **Hosted PDS:** A trusted partner (Regen Network, a regional NGO, a technical support organization) runs the PDS on behalf of the community. Easiest to start with.
 - **Self-hosted PDS:** The community runs PDS software on its own hardware. Requires technical capacity or ongoing support.
