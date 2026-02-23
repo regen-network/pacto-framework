@@ -54,4 +54,10 @@ Without verifiable evidence of participatory process, biocultural crediting clai
 
 ---
 
+## Sovereign Storage
+
+The Evidence Trail's progressive disclosure model extends naturally to sovereign infrastructure — community-controlled data storage using AT Protocol Personal Data Servers (PDS). See [sovereign-infrastructure.md](sovereign-infrastructure.md) for the technical pathway from cloud-hosted evidence storage to community-owned PDS instances, including PACTO-specific Lexicons for each evidence layer and on-chain anchoring via Regen Ledger.
+
+---
+
 *Detailed technical specifications for the Evidence Trail, including schema definitions and on-chain anchoring patterns, are available to partners via the KOI Knowledge Commons.*

@@ -135,7 +135,8 @@ Detailed mechanism specifications, pilot documentation, technical schemas, and i
 2. **Explore** the [four problems](framework/problems-addressed.md) PACTO addresses
 3. **Review** the [governance principles](framework/governance-principles.md) for beyond-FPIC framing
 4. **Check** the [glossary](reference/glossary.md) for key terminology
-5. **Join** the conversation on [forum.regen.network](https://forum.regen.network)
+5. **Explore** the [sovereign infrastructure](framework/sovereign-infrastructure.md) pathway for community-owned technology
+6. **Join** the conversation on [forum.regen.network](https://forum.regen.network)
 
 ---
 
