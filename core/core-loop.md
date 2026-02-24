@@ -10,7 +10,7 @@ The Core Loop is the architectural backbone of PACTO. It is a 6-step iterative p
 
 The community convenes using its **existing governance and decision-making processes** — indigenous assembly structures, tribal councils, community meetings, or whatever governance tradition the community already practices. PACTO does not introduce a new meeting format. It instruments an existing one.
 
-Deliberation happens in mixed languages. In Amazonian contexts, communities discuss internally in their own language, then shift to Spanish for formal capture and external communication.
+Deliberation happens in mixed languages. In multilingual contexts, communities may discuss internally in their primary language, then shift to a shared administrative language for formal capture and external communication.
 
 **Key principle:** The community decides when and how to convene. PACTO does not impose a schedule, quorum, or agenda.
 
