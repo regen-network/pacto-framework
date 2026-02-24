@@ -139,7 +139,7 @@ Detailed mechanism specifications, pilot documentation, technical schemas, and i
 3. **Review** the [governance principles](core/governance-principles.md) for participatory practice
 4. **Check** the [glossary](reference/glossary.md) for key terminology
 5. **Explore** the [sovereign infrastructure](core/sovereign-infrastructure.md) pathway for community-owned technology
-6. **Browse** the [indigenous rights context](contexts/indigenous-rights/README.md) for the primary implementation
+6. **Browse** the [indigenous rights context](contexts/indigenous-rights/README.md) for the primary implementation pilot focus
 7. **Join** the conversation on [forum.regen.network](https://forum.regen.network)
 
 ---
