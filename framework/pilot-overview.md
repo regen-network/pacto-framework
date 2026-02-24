@@ -9,13 +9,13 @@ PACTO is grounded in real pilot implementations, not abstract theory. Each pilot
 | Pilot | Location | Status | Primary Value |
 |-------|----------|--------|---------------|
 | **Siekopai Nation** | Ecuadorian Amazon | Pilot: Phase 1 | Core Loop validation, biocultural indicator co-definition |
-| **Sharamentsa / Achuar** | Ecuadorian Amazon | Pilot: Phase 2 | Demonstrates PACTO's necessity |
+| **Sharamentsa / Achuar** | Ecuadorian Amazon | Pilot: Phase 2 | Partner pilot with distinct community-led governance context |
 | **Salmon Nation** | Columbia River Basin (Cascadia) | Emerging | Non-Amazonian context |
 | **ASHA** | Amazon Sacred Headwaters | Strategic | Multilateral fund governance framework |
 
 ---
 
-## Siekopai Nation — 
+## Siekopai Nation
 
 The Siekopai pilot is the most developed PACTO implementation, as the framework emerged out of the participatory biocultural indicator creation process. The Siekopai Nation worked with Yakum and Regen Network Development PBC to develop biocultural indicators for jaguar conservation credits using the PACTO Core Loop during a set of community workshops in October of 2025.
 
@@ -23,11 +23,11 @@ The process followed the 6 steps: community interviews were transcribed, AI synt
 
 **Key learning:** The participatory indicator development process — treating voice data as primary source and looping synthesis back for community validation — works in practice and produces outcomes that communities and partners endorse.
 
-## Sharamentsa / Achuar — 
+## Sharamentsa / Achuar
 
-A parallel jaguar credit project that uses the biocultural label and has done deep biocultural work, and has profound community participation.  Reporting on this process, and specific biocultural indicator co-creation is still pending, and will take place in year two of the crediting pilot. The project references a Plan de Vida (life plan) as its biocultural anchor but has not refined and published specific biocultural indicators, monitoring frequency, thresholds, or reporting structures.
+A partner jaguar credit project with deep community participation and biocultural work. The Achuar community in Sharamentsa has its own governance traditions and participatory processes, including a Plan de Vida (life plan) that serves as a biocultural anchor. Structured reporting on the participatory process and specific biocultural indicator co-creation is planned for year two of the crediting pilot.
 
-**Key learning:** Participatory processes, when not linked from the start with something like PACTO are very hard to report on, and learn from, and incorporate, causing lags in reporting and contract and protocol upgrade processes.  High quality participatory community processes are not legible, and also hard to replicate without something like PACTO.
+**Key learning:** Each community's governance process is sovereign. PACTO provides optional methodology for structuring and documenting participatory processes — making community voice more legible to external parties such as funders and verifiers — but does not define what constitutes adequate community participation. Communities that have established governance instruments operate from their own authority.
 
 
 ## Salmon Nation — Emerging Pilot

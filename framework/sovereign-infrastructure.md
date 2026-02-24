@@ -569,7 +569,7 @@ These are genuine uncertainties, not rhetorical ones. They represent active desi
 
 ### Indigenous Language Support
 
-Open AI models have limited support for the indigenous languages spoken by PACTO pilot communities (Paicoca for Siekopai, Matsés, Shuar). Fine-tuning models on indigenous language data raises its own sovereignty questions: who authorizes the training data? Who controls the resulting model? How are community interests protected if a fine-tuned model is distributed beyond the community? The [Beyond-FPIC checklist](governance-principles.md) applies to training data as much as to any other community knowledge.
+Open AI models have limited support for the indigenous languages spoken by PACTO pilot communities (Paicoca for Siekopai, Matsés, Shuar). Fine-tuning models on indigenous language data raises its own sovereignty questions: who authorizes the training data? Who controls the resulting model? How are community interests protected if a fine-tuned model is distributed beyond the community? The [Community Rights and Process Integrity checklist](governance-principles.md) applies to training data as much as to any other community knowledge.
 
 ### Hardware Sustainability
 

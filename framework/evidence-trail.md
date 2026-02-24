@@ -6,7 +6,7 @@ The Evidence Trail is PACTO's system for creating a transparent, verifiable reco
 
 ## The Problem It Solves
 
-Claims of "community participation" in conservation and ecological crediting often lack verifiable evidence. A project may check the FPIC box without demonstrating that the community actually shaped the agreement terms. The Evidence Trail addresses this gap.
+Claims of "community participation" in conservation and ecological crediting often lack verifiable evidence. FPIC implementation may be documented procedurally — signatures on consent forms — without demonstrating that the community actually shaped the agreement terms. The Evidence Trail addresses this gap.
 
 ## Process-as-Evidence
 

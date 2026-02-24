@@ -9,9 +9,9 @@ A framework for generating durable, community-authored ecological agreements usi
 
 ## What PACTO Is
 
-PACTO (from Spanish *pacto* — pact, agreement) transforms deliberative assembly conversations into formal agreements — conservation easements, ecological service contracts, and credit issuance terms that communities define on their own terms. This implimentation focused on ecological agreements instutions and contracts, however the same pipeline should be usable to support any deliberative democratic process. 
+PACTO (from Spanish *pacto* — pact, agreement) transforms deliberative assembly conversations into formal agreements — conservation easements, ecological service contracts, and credit issuance terms that communities define on their own terms. This implementation is focused on ecological agreements, institutions, and contracts, however the same pipeline should be usable to support any deliberative democratic process.
 
-PACTO is not prior informed consent. It is not a consultation process. It is a **participatory co-design process** in which the community defines the terms, indicators, and governance structures of ecological agreements from the ground up.
+PACTO is not a replacement for Free, Prior, and Informed Consent — it is a methodology for implementing consent at the depth international law intends. Communities are the authors of agreement terms, not merely reviewers.
 
 > Communities already have governance processes and cultural decision-making rituals. Rather than replacing those with outside legal and technical frameworks, PACTO instruments existing assembly processes with technology that makes them more legible, actionable, and contractually binding — while keeping the community's voice as the primary source of authority.
 
@@ -19,9 +19,9 @@ PACTO is not prior informed consent. It is not a consultation process. It is a *
 
 | Problem | Description |
 |---------|-------------|
-| **The Consent Gap** | Free, Prior, and Informed Consent (FPIC) is too low a bar. Legal contracts are drafted by professionals, then presented for sign-off. Communities say yes or no but rarely shape the substance. |
+| **The Implementation Gap** | FPIC is an established right, but implementation often falls short of what international law intends. Communities are presented with externally drafted agreements for sign-off rather than shaping the substance. PACTO provides methodology for full implementation. |
 | **The NGO Industrial Complex** | Fragmented landscape of NGO-driven projects creating intra-community competition, inconsistent commitments, and funding-cycle collapse. |
-| **Temporal Compression** | Participatory agreements currently take ~18 months. PACTO compresses this to 2-3 intensive multi-day assembly events while maintaining depth. |
+| **The Accessibility Challenge** | Meaningful participation requires sustained engagement. AI-augmented synthesis makes intensive assembly sessions more productive, increasing depth per session rather than compressing timelines. |
 | **The Surveillance Inversion** | Most conservation technology watches communities. PACTO inverts this — technology serves communities, reflecting their own desires in the contracts being created. |
 
 Read more: [framework/problems-addressed.md](framework/problems-addressed.md)
@@ -84,7 +84,7 @@ PACTO is a companion to [`regen-network/agentic-tokenomics`](https://github.com/
 
 ### Mechanisms
 
-PACTO defines four formal mechanisms for biocultural governance:
+PACTO uses four formal mechanisms to support community-led biocultural governance:
 
 | Mechanism | Name | Description |
 |-----------|------|-------------|
@@ -100,7 +100,7 @@ Read more: [reference/mechanism-overview.md](reference/mechanism-overview.md)
 | Pilot | Location | Key Feature |
 |-------|----------|-------------|
 | **Siekopai Nation** | Ecuadorian Amazon | Community co-defined biocultural indicators for jaguar conservation |
-| **Sharamentsa / Shuar** | Ecuadorian Amazon | Contrast case demonstrating difference between participatory and non-participatory approaches |
+| **Sharamentsa / Achuar** | Ecuadorian Amazon | Partner pilot with distinct community-led governance context |
 | **Matses Nation** | Peruvian Amazon | ERA Brazil umbrella species method adapted with PACTO |
 | **Salmon Nation** | Columbia River Basin (Cascadia) | Community-led salmon ecosystem health indicators |
 | **ASHA** | Amazon Sacred Headwaters | Monitoring and evaluation framework for multilateral conservation fund |
@@ -109,9 +109,9 @@ Read more: [framework/pilot-overview.md](framework/pilot-overview.md)
 
 ## Governance Principles
 
-PACTO goes beyond FPIC to establish genuine community authorship of ecological agreements:
+PACTO provides methodology for implementing indigenous rights to self-determination and participatory governance, grounded in UNDRIP, ILO Convention 169, and regional jurisprudence including Sarayaku v. Ecuador (IACtHR, 2012):
 
-- **Co-design, not consent** — communities define the terms, not just approve them
+- **Community authorship** — communities define the terms, not just approve them
 - **Voice-first participation** — oral tradition is the primary interface
 - **Data sovereignty** — communities control their data
 - **Legal pluralism** — agreements valid under indigenous customary law, national law, and on-chain governance
@@ -121,7 +121,7 @@ Read more: [framework/governance-principles.md](framework/governance-principles.
 
 ## Biocultural Credits
 
-PACTO provides the process layer that gives biocultural crediting its legitimacy. A credit earns "biocultural" status when it demonstrates both ecological outcomes and verified community authorship of agreement terms.
+PACTO provides a verifiable methodology for documenting that biocultural credits genuinely reflect community participation and authorship. A credit earns "biocultural" status when it demonstrates both ecological outcomes and verified community authorship of agreement terms.
 
 Read more: [concepts/biocultural-credits.md](concepts/biocultural-credits.md)
 
@@ -133,7 +133,7 @@ Detailed mechanism specifications, pilot documentation, technical schemas, and i
 
 1. **Read** the [Core Loop](framework/core-loop.md) to understand the 6-step process
 2. **Explore** the [four problems](framework/problems-addressed.md) PACTO addresses
-3. **Review** the [governance principles](framework/governance-principles.md) for beyond-FPIC framing
+3. **Review** the [governance principles](framework/governance-principles.md) for rights-grounded participatory practice
 4. **Check** the [glossary](reference/glossary.md) for key terminology
 5. **Explore** the [sovereign infrastructure](framework/sovereign-infrastructure.md) pathway for community-owned technology
 6. **Join** the conversation on [forum.regen.network](https://forum.regen.network)

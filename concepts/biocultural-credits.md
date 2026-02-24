@@ -22,16 +22,16 @@ Biocultural credits are expected to command a premium over conventional ecologic
 
 ---
 
-## How PACTO Creates Biocultural Credits
+## How PACTO Supports Biocultural Credits
 
-PACTO provides the process layer that gives biocultural crediting its legitimacy. The framework:
+PACTO provides a verifiable participatory methodology for documenting that biocultural credits genuinely reflect community authorship. The framework:
 
-1. Enables communities to **define their own indicators** of ecological and cultural health through the Core Loop
+1. Supports communities in **documenting and formalizing their own indicators** of ecological and cultural health through the Core Loop
 2. Creates a **verifiable Evidence Trail** proving the community drove the agreement terms
 3. Produces **formal legal instruments** (conservation easements, credit issuance terms) rooted in community voice
 4. Supports **living contracts** that evolve with community needs and ecological conditions
 
-Without verified community authorship, biodiversity credits that claim to be "biocultural" lack the distinguishing characteristic. The contrast between PACTO-process and non-PACTO-process pilot implementations demonstrates this empirically.
+Without verified community authorship, biodiversity credits that claim to be "biocultural" lack the distinguishing characteristic that gives the term its meaning.
 
 ---
 
