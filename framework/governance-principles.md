@@ -23,8 +23,8 @@ The right to Free, Prior, and Informed Consent is well established. The problem 
 
 PACTO addresses this implementation gap. It does not propose an alternative to FPIC; it provides methodology for implementing FPIC at the depth these legal instruments require.
 
-| Dimension | Minimal FPIC Implementation (common practice) | Full Rights Implementation (what PACTO methodology supports) |
-|-----------|-----------------------------------------------|--------------------------------------------------------------|
+| Dimension | Procedural FPIC Implementation | Participatory FPIC Implementation (what PACTO methodology supports) |
+|-----------|-------------------------------|----------------------------------------------------------------------|
 | **Direction** | External to Community | Community to External |
 | **Community role** | Reviewer | Author |
 | **Authority over terms** | Limited (accept/reject) | Full (define/modify) |

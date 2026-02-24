@@ -25,9 +25,11 @@ The process followed the 6 steps: community interviews were transcribed, AI synt
 
 ## Sharamentsa / Achuar
 
-A partner jaguar credit project with deep community participation and biocultural work. The Achuar community in Sharamentsa has its own governance traditions and participatory processes, including a Plan de Vida (life plan) that serves as a biocultural anchor. Structured reporting on the participatory process and specific biocultural indicator co-creation is planned for year two of the crediting pilot.
+The Sharamentsa project is a jaguar conservation credit pilot with the Achuar community, implemented by Fundacion Pachamama and local partners with deep community relationships and long-standing field presence. The project has strong community engagement practices and profound participatory governance, anchored in a Plan de Vida (life plan) that serves as the biocultural foundation.
 
-**Key learning:** Each community's governance process is sovereign. PACTO provides optional methodology for structuring and documenting participatory processes — making community voice more legible to external parties such as funders and verifiers — but does not define what constitutes adequate community participation. Communities that have established governance instruments operate from their own authority.
+Specific biocultural indicator co-definition, monitoring frequency, thresholds, and reporting structures are being developed in year two of the crediting pilot. PACTO has been proposed as complementary reporting tooling to support the structured documentation of the community's existing participatory process — helping make the rich community engagement legible for external verification and credit issuance without altering the governance process itself.
+
+**Key learning:** Strong community engagement practices and robust reporting tooling are complementary but distinct. High-quality participatory processes benefit from structured documentation infrastructure that makes them legible and reproducible for credit verification purposes. PACTO addresses this reporting layer without presuming gaps in community governance or partner engagement.
 
 
 ## Salmon Nation — Emerging Pilot

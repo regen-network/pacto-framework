@@ -87,9 +87,9 @@
 | Term | Context | Definition |
 |------|---------|------------|
 | **TRK 149** | Siekopai | "Bosques para el Clima" — the Siekopai jaguar conservation project registered on Regen Registry. |
-| **Plan de Vida** | Latin America | Life plan — a community governance document common across Latin American indigenous communities, used as a biocultural anchor for ecological and territorial governance. |
+| **Plan de Vida** | Latin America | Life plan — a community governance document common across Latin American indigenous communities, used as a biocultural anchor for ecological and territorial governance. PACTO provides complementary reporting tooling that helps make Plan de Vida processes legible for external verification. |
 | **Yakum** | Siekopai | Local implementation partner for the Siekopai pilot. |
-| **Fundación Pachamama** | Ecuador | Conservation and indigenous rights organization partnering on PACTO pilots. |
+| **Fundación Pachamama** | Ecuador | Conservation and indigenous rights organization with deep community relationships and long-standing field presence, partnering on PACTO pilots. |
 | **ASHA** | Amazon Basin | Amazon Sacred Headwaters Alliance — multilateral bioregional fund where PACTO serves as MEL framework. |
 
 

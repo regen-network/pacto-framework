@@ -24,7 +24,7 @@ PACTO applies deliberative democracy principles — voice-first participation, s
 | **Pol.is** | Opinion clustering | Community-defined indicators, legally binding agreements |
 | **vTaiwan** | Digital democracy | Indigenous governance integration, legal pluralism |
 | **Citizens' assemblies** | In-person deliberation | AI synthesis, deliberative accessibility, evidence trail |
-| **Minimal FPIC implementation** | Procedural consent documentation | Community authorship of agreement terms, verifiable evidence trail |
+| **Procedural FPIC implementation** | Procedural consent documentation | Community authorship of agreement terms, verifiable evidence trail |
 | **Plan de Vida** | Community governance documents | Structured indicators, monitoring, on-chain anchoring |
 
 ---
