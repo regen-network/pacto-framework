@@ -1,6 +1,6 @@
 # Governance Principles: Implementing Rights Through Participatory Practice
 
-PACTO provides participatory methodology for implementing the rights of indigenous peoples and local communities to self-determination, territorial governance, and meaningful participation in decisions affecting their lands and livelihoods. These rights are established in international law — UNDRIP, ILO Convention 169, and regional jurisprudence including Sarayaku v. Ecuador (IACtHR, 2012) — and in national constitutions such as Ecuador's Articles 57, 71, and 398. PACTO does not create these rights. It provides tools and methodology for their full exercise.
+PACTO provides participatory methodology for implementing the rights of indigenous peoples and local communities to self-determination, territorial governance, and meaningful participation in decisions affecting their lands and livelihoods. These rights are established in international law — UNDRIP, ILO Convention 169, and regional jurisprudence including Sarayaku v. Ecuador (IACtHR, 2012) — and in national constitutions, such as Ecuador's provisions for collective rights, the Rights of Nature, and environmental consultation. PACTO does not create these rights. It provides tools and methodology for their full exercise.
 
 ---
 
