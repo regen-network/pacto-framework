@@ -82,7 +82,7 @@ Multiple communities operate interconnected infrastructure, enabling cross-commu
 - **Cross-community governance:** Federated DAO structures for shared ecological governance (watershed-level, bioregional coordination)
 - **Identity:** Federated identity mesh — community members recognized across networks
 
-**What changes:** Communities move from isolated sovereignty to networked sovereignty. ASHA (Amazon Sacred Headwaters Alliance) is an example of the governance scale this phase supports.
+**What changes:** Communities move from isolated sovereignty to networked sovereignty. Regional alliances of communities are an example of the governance scale this phase supports.
 
 **What stays the same:** Everything about the Core Loop. Community authority over their own process. The fundamental principle that no community is required to share more than it chooses.
 
@@ -320,7 +320,7 @@ The routing decision is simple: if the data contains community voice, cultural k
 
 ### Offline Inference
 
-Many PACTO pilot communities operate in areas with intermittent or no internet connectivity. The Amazon communities (Siekopai, Matses) often have limited satellite internet. Offline inference is not a future feature — it is a present requirement.
+Many PACTO pilot communities operate in areas with intermittent or no internet connectivity. Remote communities often have limited satellite internet at best. Offline inference is not a future feature — it is a present requirement.
 
 - **llama.cpp** runs entirely offline once a model is downloaded
 - **Ollama** requires no network connection after initial model pull
@@ -569,7 +569,7 @@ These are genuine uncertainties, not rhetorical ones. They represent active desi
 
 ### Indigenous Language Support
 
-Open AI models have limited support for the indigenous languages spoken by PACTO pilot communities (Paicoca for Siekopai, Matsés, Shuar). Fine-tuning models on indigenous language data raises its own sovereignty questions: who authorizes the training data? Who controls the resulting model? How are community interests protected if a fine-tuned model is distributed beyond the community? The [Community Rights and Process Integrity checklist](governance-principles.md) applies to training data as much as to any other community knowledge.
+Open AI models have limited support for many of the languages spoken by PACTO pilot communities, particularly indigenous and minority languages. Fine-tuning models on community language data raises its own sovereignty questions: who authorizes the training data? Who controls the resulting model? How are community interests protected if a fine-tuned model is distributed beyond the community? The [Community Rights and Process Integrity checklist](governance-principles.md) applies to training data as much as to any other community knowledge.
 
 ### Hardware Sustainability
 
@@ -577,7 +577,7 @@ Community-owned servers require electricity, internet connectivity, physical sec
 
 ### Connectivity Constraints
 
-PACTO pilot communities in the Amazon have intermittent satellite internet at best. Sovereign infrastructure must work offline-first with sync-when-connected patterns. This is technically feasible (llama.cpp, local Whisper, PDS sync) but requires careful design for conflict resolution when multiple offline changes need to merge.
+Many PACTO pilot communities have intermittent satellite internet at best. Sovereign infrastructure must work offline-first with sync-when-connected patterns. This is technically feasible (llama.cpp, local Whisper, PDS sync) but requires careful design for conflict resolution when multiple offline changes need to merge.
 
 ### AT Protocol Maturity
 

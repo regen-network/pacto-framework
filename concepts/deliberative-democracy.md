@@ -6,7 +6,7 @@ PACTO connects directly to the broader field of deliberative democracy, citizens
 
 ## Where PACTO Fits
 
-PACTO applies deliberative democracy principles — voice-first participation, structured synthesis, iterative consensus building — to **ecological governance** in indigenous and community contexts. Most deliberative democracy tools are designed for civic contexts (voting, policy, urban planning). PACTO adds:
+PACTO applies deliberative democracy principles — voice-first participation, structured synthesis, iterative consensus building — to **ecological governance** in community and organizational contexts. Most deliberative democracy tools are designed for civic contexts (voting, policy, urban planning). PACTO adds:
 
 - **Ecological dimension** — deliberation about land, species, ecosystems
 - **Indigenous governance** — integration with existing traditional governance structures

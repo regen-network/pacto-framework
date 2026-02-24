@@ -9,7 +9,7 @@
 ### Quick Start
 
 1. **Read** the [README](README.md) to understand the PACTO framework and 6-step Core Loop
-2. **Explore** the `framework/` directory for foundational specifications
+2. **Explore** the `core/` directory for universal methodology
 3. **Review** the [glossary](reference/glossary.md) for key terminology
 4. **Join** the conversation on [forum.regen.network](https://forum.regen.network)
 
@@ -18,9 +18,10 @@
 | Type | Examples |
 |------|---------|
 | **Research** | Analysis, literature review, comparative studies |
-| **Translation** | ES/EN document translation, indigenous terminology review |
+| **Translation** | ES/EN document translation, terminology review |
 | **Facilitation** | Facilitator guides, workshop templates, training materials |
 | **Review** | Cultural sensitivity review, specification feedback |
+| **Context modules** | New context implementations for different governance traditions |
 
 ### Style Guide
 
@@ -59,7 +60,7 @@ Repository Contribution (with attribution and community endorsement)
 
 ### What Community Members Can Contribute
 
-- **Biocultural indicators** — What does ecological health mean in your territory?
+- **Indicators** — What does ecological health mean in your context?
 - **Governance parameters** — How does your community make decisions?
 - **Process feedback** — Did the PACTO Core Loop work? What should change?
 - **Cultural context** — What do outsiders need to understand?
@@ -67,28 +68,27 @@ Repository Contribution (with attribution and community endorsement)
 
 ### Languages
 
-The repository operates primarily in English and Spanish. Community contributions in indigenous languages are welcomed and will be preserved with their original language alongside translations. We do not machine-translate indigenous language content without community review.
+The repository operates primarily in English and Spanish. Community contributions in other languages are welcomed and will be preserved with their original language alongside translations. We do not machine-translate community language content without community review.
 
 ---
 
-## Community Rights and Process Integrity
+## Process Integrity
 
-PACTO provides methodology for implementing indigenous rights to self-determination and participatory governance. For any contribution that involves indigenous knowledge, community processes, or pilot-specific content, review this checklist:
+### Universal Checklist
 
-### Checklist
+For any contribution involving community-generated content:
 
-- [ ] **Community authorship**: Was this content generated through a PACTO Core Loop process, or derived from one?
-- [ ] **Community endorsement**: Has the contributing community reviewed and affirmed this content?
-- [ ] **Data sovereignty**: Does the content respect the community's data residency and ownership requirements?
-- [ ] **Attribution**: Is the contributing community properly credited?
-- [ ] **No extraction**: Does this contribution add value for the community, not just extract knowledge from them?
-- [ ] **Language integrity**: If content was translated from an indigenous language, has the semantic integrity been verified by a community member?
-- [ ] **Power dynamics**: Does this contribution risk creating dependency, surveillance, or externally-imposed frameworks?
-- [ ] **Reversibility**: Can the community withdraw this content if they later choose to?
+- [ ] **Community endorsement** — Has the contributing community reviewed and affirmed this content?
+- [ ] **Data sovereignty** — Does the content respect the community's data and ownership requirements?
+- [ ] **Attribution** — Is the contributing community properly credited?
+- [ ] **No extraction** — Does this contribution add value for the community, not just extract knowledge?
+- [ ] **Reversibility** — Can the community withdraw this content if they later choose to?
 
-### When in Doubt
+### Indigenous Rights Context
 
-If a contribution touches indigenous knowledge and you're unsure about compliance: pause, ask, and wait for community review before proceeding.
+For contributions involving indigenous knowledge, community processes, or pilot-specific content, a more comprehensive checklist applies. See: **[contexts/indigenous-rights/process-integrity.md](contexts/indigenous-rights/process-integrity.md)**
+
+This includes additional requirements for rights grounding, language integrity, and power dynamics review.
 
 ---
 
