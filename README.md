@@ -80,7 +80,7 @@ Read more: [core/core-loop.md](core/core-loop.md)
 
 ### The Evidence Trail
 
-PACTO creates a transparent, verifiable record of the participatory process itself — not just the outcome. Funders and verifiers can independently confirm that the community drove the agreement terms, that deliberation happened, and that consent was genuine and informed. This turns the process itself into auditable evidence.
+PACTO creates a transparent, verifiable record of the participatory process itself — not just the outcome. Funders and verifiers, and most importantly communities themselves can independently confirm that that deliberation happened, and that consent was genuine and informed. This turns the process itself into auditable evidence.
 
 Read more: [core/evidence-trail.md](core/evidence-trail.md)
 
