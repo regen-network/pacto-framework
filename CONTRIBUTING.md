@@ -71,9 +71,9 @@ The repository operates primarily in English and Spanish. Community contribution
 
 ---
 
-## Beyond Free, Prior, and Informed Consent (FPIC)
+## Community Rights and Process Integrity
 
-PACTO goes beyond FPIC. For any contribution that involves indigenous knowledge, community processes, or pilot-specific content, review this checklist:
+PACTO provides methodology for implementing indigenous rights to self-determination and participatory governance. For any contribution that involves indigenous knowledge, community processes, or pilot-specific content, review this checklist:
 
 ### Checklist
 

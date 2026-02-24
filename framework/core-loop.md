@@ -50,7 +50,7 @@ Steps 1-4 repeat in loops until the community reaches consensus. Each cycle shar
 
 **Consensus threshold:** This is a configurable, community-defined parameter. Different communities may define different thresholds — simple majority, supermajority, unanimous consent, or traditional decision-making protocols.
 
-**Temporal compression:** PACTO aims to achieve in 2-3 intensive multi-day events what traditionally takes ~18 months of meetings. The AI-augmented synthesis accelerates the iteration without compromising depth.
+**Deliberative accessibility:** AI-augmented synthesis makes each assembly session more productive by structuring community input for review and refinement. The value is depth of engagement per session — not timeline compression. Communities set their own pace for iteration.
 
 ### Step 6: Agreement Generation
 

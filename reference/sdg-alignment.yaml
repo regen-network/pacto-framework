@@ -146,8 +146,8 @@ credit_class_sdg_matrix:
     secondary_sdgs: [4, 8, 13, 17]
     pacto_relevance: >
       Siekopai pilot directly produces USS01-compatible credits.
-      PACTO provides the biocultural indicator co-definition process
-      that maps community knowledge to the USS01 composite index.
+      PACTO provides methodology for documenting community-led biocultural
+      indicator co-definition that maps community knowledge to the USS01 composite index.
 
   BT01:
     name: BioTerra Biodiversity

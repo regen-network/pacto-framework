@@ -18,7 +18,7 @@ Biocultural attestations are claims that originate from community-defined indica
 
 **Purpose:** Formalize the PACTO Core Loop as a reproducible, verifiable mechanism.
 
-Voice Agreement is PACTO's core innovation — the mechanism that transforms community deliberation into formal ecological agreements. It encodes the full process: voice capture, agentic synthesis, community feedback, iterative refinement, and agreement generation. The mechanism processes human voice as the primary input and produces community-endorsed agreements as the output.
+Voice Agreement is PACTO's core mechanism — the methodology that supports community deliberation in producing formal ecological agreements. It encodes the full process: voice capture, agentic synthesis, community feedback, iterative refinement, and agreement generation. The mechanism processes human voice as the primary input and produces community-endorsed agreements as the output.
 
 **Extends:** New mechanism (no direct agentic-tokenomics counterpart)
 

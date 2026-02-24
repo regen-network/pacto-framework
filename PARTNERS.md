@@ -19,7 +19,7 @@ This public repository provides the conceptual foundation for the PACTO framewor
 Partner access is distributed via the KOI (Knowledge Organization Infrastructure) knowledge commons, not via public GitHub. This ensures:
 
 1. **Appropriate context** — detailed specifications are shared with partners who understand the cultural sensitivity requirements
-2. **Community protection** — pilot-specific content is shared only with partners who have committed to the Beyond-FPIC principles
+2. **Community protection** — pilot-specific content is shared only with partners who have committed to the community rights and process integrity principles
 3. **Living documentation** — partner content is updated through KOI federation, ensuring partners always have the latest versions
 
 ### To request partner access:
